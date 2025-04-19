@@ -35,10 +35,10 @@ body {
 #ui .love:last-child .love_word {
   color: #fff;
   font-size: 2rem;
-  text-shadow: 0 0 10px #ea80b0;
+  text-shadow: 0 0 10px #2196F3;
 }
 #ui .love_word {
-  color: #ea80b0;
+  color: #2196F3;
   font-size: 1.4rem;
   transform: translateY(-100%) rotateZ(-30deg);
   font-family: "Dosis", sans-serif;
