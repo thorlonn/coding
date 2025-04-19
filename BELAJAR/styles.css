@@ -1,7 +1,7 @@
 #btn-make {
   bottom: 200px;
   right: 30px;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 31, 63, 1);
 }
 .div_btn {
   position: fixed;
@@ -18,7 +18,7 @@
 #div_support {
   bottom: 80px;
   right: 20px;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 31, 63, q);
 }
 body {
   background: #000;
