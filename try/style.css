@@ -21,9 +21,10 @@
   background-color: rgba(0, 31, 63, 1);
 }
 body {
-  background: #000;
-  height: 100vh;
-  overflow: hidden;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #001f3f !important;
 }
 
 #ui .love {
